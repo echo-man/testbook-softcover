@@ -1,10 +1,10 @@
 ---
 slug: testbook
 filename: testbook
-title: Title of the Book
-subtitle: Change me
-description: Change me.
-author: Author Name
+title: LaTeX is not for everyone
+subtitle: But maybe it's for you
+description: LaTeX is (1) making you constantly pulling your hair or (2) saving your life.
+author: Gema Bujangga
 copyright: 2015
 uuid: 944e5f2f-5a1a-4cfb-b1d9-c56ed454d126
 pdf_preview_page_range: 1..30
