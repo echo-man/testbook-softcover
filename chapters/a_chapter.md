@@ -71,15 +71,15 @@ The \LaTeX\ syntax is strongly preferred, but the alternate syntax is included f
 
 This is the second section.
 
-Softcover supports the inclusion of images, like this:
+Softcover supports several ways to include images, like this:
 
 ![Some dude.](images/01_michael_hartl_headshot.jpg)
 
-Using \LaTeX\ labels, you can also include a caption (as in Figure~\ref{fig:captioned_image}) or just a figure number (as in Figure~\ref{fig:figure_number}).
+Using \LaTeX\ labels, you can also include a caption (as in Figure~\ref{fig:captioned-image}) or just a figure number (as in Figure~\ref{fig:figure-number}).
 
-![Some dude.\label{fig:captioned_image}](images/01_michael_hartl_headshot.jpg)
+![Some dude.\label{fig:captioned-image}](images/01_michael_hartl_headshot.jpg)
 
-![\label{fig:figure_number}](images/01_michael_hartl_headshot.jpg)
+![\label{fig:figure-number}](images/01_michael_hartl_headshot.jpg)
 
 ### Tables
 
